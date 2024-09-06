@@ -1,5 +1,5 @@
 # Fraud Detection Using ML and Neural Networks
-February 2021
+February 2022
 
 This project focused on the challenging task of fraud detection in financial transactions using machine learning techniques. The data, characterized by significant class imbalance, was addressed using under-sampling, where the majority class (non-fraudulent transactions) was reduced to match the minority class (fraudulent transactions). The dataset, after cleaning and correlation analysis, was modeled using various algorithms including Random Forest, Logistic Regression, Support Vector Machines, and Artificial Neural Networks (ANN). Key features like online transactions, non-use of PIN numbers, and the absence of certain variables like “Repeat Retailer” were essential in detecting fraudulent activities.
 
